@@ -1,7 +1,9 @@
-This is The Wave Simulation Program Written in C++ based in "Graphihcs.h" Library using some function of Codeblocks
-. If you want to run this code in your machine. I really suggest you the codeblocks with graphics.h added in it. In
+This is The Wave Simulation Program Written in C++ based in "Graphihcs.h" Library using some function of Codeblocks.
+If you want to run this code in your machine. I really suggest you the codeblocks with graphics.h added in it. In
  Other IDE can also be run but some change should be done.
-           This consists following feature:
+         
+         
+                  This consists following feature:
           - Generate Square Wave (all based on inputs of Amplitude and Frequency)
           - Generate Cosine Wave
           - Addition of Sine and Cosine Wave

@@ -17,6 +17,6 @@ If you want to run this code in your machine. I really suggest you the codeblock
  2. Traingular Waves
 - Option to change Font and Background Color as Specified..
 
-**Coding challenge: As the frequency of the signal increases, the signal narrows. However, as the frequency of the square wave is increased, it begins to boarder.**
+**Coding challenge: As the frequency of the signal increases, the signal narrows. However, as the frequency of the square wave is increased, it begins to wider.**
 
 Disclaimer: Only for personal use. Any improvement through pull request is highly appreciated.
